@@ -23,7 +23,7 @@ optional for download results automatically
 pip install gdown tarfile 
 ```
 
-# Run
+# Usage
 Jump to src folder
 ```
 cd src
